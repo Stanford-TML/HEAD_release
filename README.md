@@ -12,7 +12,7 @@ Official Implementation of CoRL 2025 paper: Hand-Eye Autonomous Delivery: Learni
 [Code](https://github.com/Stanford-TML/HEAD_rl_deploy)
 
 ## Navigation & Reaching 
-[Code]()
+[Code](https://github.com/JudyYe/head_nav)
 
 ## Localization 
 [Code](https://github.com/Ericcsr/G1_localization)
